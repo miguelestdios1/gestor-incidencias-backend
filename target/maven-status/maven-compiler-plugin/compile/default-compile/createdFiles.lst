@@ -1,0 +1,12 @@
+com\portfolio\incidencias\model\Usuario.class
+com\portfolio\incidencias\service\IncidenciaService.class
+com\portfolio\incidencias\security\JwtUtil.class
+com\portfolio\incidencias\model\Incidencia.class
+com\portfolio\incidencias\GestorIncidenciasApplication.class
+com\portfolio\incidencias\model\Usuario$Rol.class
+com\portfolio\incidencias\security\SecurityConfig.class
+com\portfolio\incidencias\security\JwtFilter.class
+com\portfolio\incidencias\repository\UsuarioRepository.class
+com\portfolio\incidencias\controller\AuthController.class
+com\portfolio\incidencias\repository\IncidenciaRepository.class
+com\portfolio\incidencias\controller\IncidenciaController.class

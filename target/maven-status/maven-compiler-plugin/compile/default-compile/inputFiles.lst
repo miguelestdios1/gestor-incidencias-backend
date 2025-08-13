@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\gestor-incidencias\backend\src\main\java\com\portfolio\incidencias\controller\AuthController.java
+C:\Users\Usuario\Desktop\gestor-incidencias\backend\src\main\java\com\portfolio\incidencias\controller\IncidenciaController.java
+C:\Users\Usuario\Desktop\gestor-incidencias\backend\src\main\java\com\portfolio\incidencias\GestorIncidenciasApplication.java
+C:\Users\Usuario\Desktop\gestor-incidencias\backend\src\main\java\com\portfolio\incidencias\model\Incidencia.java
+C:\Users\Usuario\Desktop\gestor-incidencias\backend\src\main\java\com\portfolio\incidencias\model\Usuario.java
+C:\Users\Usuario\Desktop\gestor-incidencias\backend\src\main\java\com\portfolio\incidencias\repository\IncidenciaRepository.java
+C:\Users\Usuario\Desktop\gestor-incidencias\backend\src\main\java\com\portfolio\incidencias\repository\UsuarioRepository.java
+C:\Users\Usuario\Desktop\gestor-incidencias\backend\src\main\java\com\portfolio\incidencias\security\JwtFilter.java
+C:\Users\Usuario\Desktop\gestor-incidencias\backend\src\main\java\com\portfolio\incidencias\security\JwtUtil.java
+C:\Users\Usuario\Desktop\gestor-incidencias\backend\src\main\java\com\portfolio\incidencias\security\SecurityConfig.java
+C:\Users\Usuario\Desktop\gestor-incidencias\backend\src\main\java\com\portfolio\incidencias\service\IncidenciaService.java

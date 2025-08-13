@@ -1,0 +1,3 @@
+com\portfolio\incidencias\controller\IncidenciaControllerTest.class
+com\portfolio\incidencias\service\IncidenciaServiceTest.class
+com\portfolio\incidencias\security\NoSecurityTestConfig.class

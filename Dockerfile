@@ -6,5 +6,5 @@ RUN ./mvnw clean package -DskipTests
 
 FROM eclipse-temurin:17-jdk
 WORKDIR /app
-COPY --from=build /app/target/*.jar app.jar
+COPY --from=build /app/target/gestor-incidencias-1.0.0.jar app.jar
 ENTRYPOINT ["java","-jar","/app/app.jar"]
